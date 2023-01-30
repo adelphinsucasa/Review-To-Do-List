@@ -1,7 +1,7 @@
 <a name="To Do List by Jose Delphin"></a>
 
 <div align="center">
-  <img  src="./assets/images/ToDoListLogo.png" alt="logo" width="140"  height="auto" />
+  <img  src="./src/assets/images/ToDoListLogo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Jose Alejandro Delphin Puente</b></h3>
