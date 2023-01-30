@@ -62,6 +62,7 @@
   <li>- **Localstorage management**</li>
   <li>- **The Code is divided into modules**</li>
   <li>- **Methods and functions with arrow functions**</li>
+  <li>- **Code Review from my Codign Partner**</li>
  </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
