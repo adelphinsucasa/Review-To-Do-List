@@ -143,6 +143,6 @@ I would like to thank my family, all the partners and Microverse platform.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](<a href="https://github.com/adelphinsucasa/Awesome-Books-with-ES6/blob/main/README.md">License</a>) licensed.
+This project is [MIT](<a href="https://github.com/adelphinsucasa/Review-To-Do-List/blob/Review-By-Coding-Partner/LICENSE">License</a>) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
